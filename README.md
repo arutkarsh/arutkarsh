@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Utkarsh
-- 🌱 I’m currently learning web dev
+- 🌱 I’m currently learning full stack development
